@@ -1,13 +1,13 @@
 
-<h1 align = 'center'>  Hi there~ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="44"> I am WenWen. Welcome to my GitHub 💖! </h1>
+<h1 align = 'center'>  Hi there~ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="44"> I am WenWen. Welcome to my GitHub 🥀 </h1>
 
-<h4 align="center"><samp> ✨ I’m spending my time learning many new skills and practicing competitive programming. </samp></h4>
+<h4 align="center"><samp> ✨ I’m spending my time learning many new skills and practicing competitive programming </samp></h4>
 
-<h4 align="center"><samp> ✨ I’m planning to participate in some competitions, such as kaggle, to improve my machine learning skills. </samp></h4>
+<h4 align="center"><samp> ✨ I’m planning to participate in some competitions, such as kaggle, to improve my machine learning skills </samp></h4>
 
-<h4 align="center"><samp> ✨  I love the experience of working with a team to develop some final product. </samp></h4>
+<h4 align="center"><samp> ✨  I love the experience of working with a team to develop some final product </samp></h4>
 
-<h4 align="center"><samp> ✨  I'm currently in Taraz Metrology Ltd and work in Metrology Algorithm. </samp></h4>
+<h4 align="center"><samp> ✨  I'm currently in Taraz Metrology Ltd and work in Metrology Algorithm </samp></h4>
 
 <h4 align="center"><samp> I like using Python <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="27"> and I'm exploring C++ 🐍 ☁️ </samp></h4>
 
