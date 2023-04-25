@@ -22,6 +22,4 @@
 
 📮 Reach me: 
 
-[![Gmail Badge](https://img.shields.io/badge/-wenyanqi77@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wenyanqi77@outlook.com)](mailto:wenyanqi77@outlook.com)
-
 
