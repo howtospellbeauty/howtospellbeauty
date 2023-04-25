@@ -7,7 +7,7 @@
 
 <h4 align="center"><samp> ✨  I love the experience of working with a team to develop some final product </samp></h4>
 
-<h4 align="center"><samp> ✨  I'm currently in Taraz Metrology Ltd and work in Metrology Algorithm </samp></h4>
+<h4 align="center"><samp> ✨  I'm currently in a Metrology Ltd and work in Metrology Algorithm </samp></h4>
 
 <h4 align="center"><samp> I like using Python <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="21"> and I'm exploring C++ 🐍 ☁️ </samp></h4>
 
