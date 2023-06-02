@@ -23,5 +23,5 @@
 📮 Reach me: 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-oothea@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oothea@163.com)](mailto:wenyanqi77@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-wenwen's_mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oothea@163.com)](mailto:wenyanqi77@outlook.com)
 
